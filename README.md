@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Yuvraj's github stats](https://github-readme-stats.vercel.app/api?username=Yuvrajchandra)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yuvrajchandra&repo=TinDog)]
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yuvrajchandra&repo=TinDog)
