@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yuvrajchandra&repo=TinDog)
 
-![counter](https://[en860rf7nysrdvu].m.pipedream.net)
+![counter](https://en860rf7nysrdvu.m.pipedream.net)
