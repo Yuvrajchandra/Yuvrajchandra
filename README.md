@@ -5,7 +5,7 @@
 
 
 ## 🤵 About Me:
-- 🏦 I'm a Software Developer (currently Open to work ❤️❤️).
+- 🏦 I'm a Software Developer (currently Open to work ❤️❤️) and Technical Content Writer (Geeksforgeeks).
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I use daily `.cpp`,` .py`
 - 👯 I’m looking to collaborate with other developers
