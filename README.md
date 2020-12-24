@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Yuvraj's github stats](https://github-readme-stats.vercel.app/api?username=Yuvrajchandra&show_icons=true&theme=tokyonight)
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=Yuvrajchandra alt=Yuvrajchandra/></p>
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yuvrajchandra&repo=TinDog)
 
-![counter](https://en860rf7nysrdvu.m.pipedream.net)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvrajchandra)](https://github.com/Yuvrajchandra/github-readme-stats)
 
