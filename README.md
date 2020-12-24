@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Yuvraj's github stats](https://github-readme-stats.vercel.app/api?username=Yuvrajchandra)
+![Yuvraj's github stats](https://github-readme-stats.vercel.app/api?username=Yuvrajchandra&show_icons=true&theme=tokyonight)
 <!--
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yuvrajchandra&repo=TinDog)
 
