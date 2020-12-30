@@ -23,10 +23,6 @@
   <img align="center" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 &nbsp;
-<a href="https://yuvrajchandra.github.io/My_Portfolio/">
-  <img src="https://img.icons8.com/metro/26/000000/link.png"/>
-</a>
-&nbsp;
   
 ### 🎮 Latest Inventions
 - [ReClothe Website](https://reclothe.webflow.io/)
@@ -37,23 +33,8 @@
 ### 📕 My Latest Blog posts:
 - [Articles Published on Geeksforgeeks](https://auth.geeksforgeeks.org/user/yuvraj_chandra/articles)
 
-<!--
-**Yuvrajchandra/Yuvrajchandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ![Yuvraj's github stats](https://github-readme-stats.vercel.app/api?username=Yuvrajchandra&show_icons=true&theme=tokyonight)
-
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvrajchandra&layout=compact&count_private=true&theme=vue-dark" alt="pushpit07" /></p> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvrajchandra)](https://github.com/Yuvrajchandra/github-readme-stats)
 
