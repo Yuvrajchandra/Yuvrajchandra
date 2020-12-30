@@ -33,8 +33,7 @@
 ### 📕 My Latest Blog posts:
 - [Articles Published on Geeksforgeeks](https://auth.geeksforgeeks.org/user/yuvraj_chandra/articles)
 
-![Yuvraj's github stats](https://github-readme-stats.vercel.app/api?username=Yuvrajchandra&show_icons=true&theme=tokyonight)
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvrajchandra&layout=compact&count_private=true&theme=vue-dark" alt="pushpit07" /></p> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvrajchandra)](https://github.com/Yuvrajchandra/github-readme-stats)
-
+<br />
+![Yuvraj's github stats](https://github-readme-stats.vercel.app/api?username=Yuvrajchandra&show_icons=true&theme=vue-dark)  
+  
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvrajchandra&layout=compact&count_private=true&theme=vue-dark" alt="Yuvrajchandra" /></p> 
