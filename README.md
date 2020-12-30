@@ -1,16 +1,27 @@
-<h1 align="center">Hi there, I'm Yuvraj Chandra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Hi there, I'm Yuvraj Chandra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>  
 [![Website](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yuvrajchandra.github.io/My_Portfolio/)
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:Singhyuvraj179@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/yuvraj-c-398465126/)
 
 
 ## 🤵 About Me:
-- 🏦 I'm a Software Developer (currently Open to work ❤️❤️) and Technical Content Writer (Geeksforgeeks).
+- I’m currently working on **MrktDB** which is a website dealing with data related to US based HedgeFunds
+- 🏦 I'm a Full Stack Developer (at MrktDB) and Technical Content Writer (at Geeksforgeeks).
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I use daily `.cpp`,` .py`
-- 👯 I’m looking to collaborate with other developers
+- 🤔 I use daily `.cpp`,` .py`,`.js`
+- 👯 I’m looking to collaborate on Web Development projects.  
 - 💬 Got Exp in: **React JS**, **Django**, **HTML CSS**, **Data Structures and Algorithms**.
 
+## Connect with me
+  
+<a href="https://www.linkedin.com/in/yuvraj-c-398465126/">
+  <img align="center" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+&nbsp;
+<a href="mailto:Singhyuvraj179@gmail.com">
+  <img align="center" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+&nbsp;
 
 ### 🎮 Latest Inventions
 - [ReClothe Website](https://reclothe.webflow.io/)
