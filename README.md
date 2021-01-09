@@ -23,6 +23,14 @@
   <img align="center" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 &nbsp;
+<a href="https://auth.geeksforgeeks.org/user/yuvraj_chandra/profile">
+  <img align="center" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/Yuvraj21/">
+  <img align="center" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+&nbsp;
   
 ### 🎮 Latest Inventions
 - [ReClothe Website](https://reclothe.webflow.io/)
