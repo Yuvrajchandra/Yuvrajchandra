@@ -43,7 +43,8 @@
 
 <br /> 
 
-![](https://komarev.com/ghpvc/?username=Yuvrajchandra)
+![](https://komarev.com/ghpvc/?username=Yuvrajchandra)  
+![](https://hit.yhype.me/github/profile?user_id=53931942)
   
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvrajchandra&layout=compact&count_private=true&theme=vue-dark" alt="Yuvrajchandra" /></p> 
   
