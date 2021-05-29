@@ -42,6 +42,8 @@
 - [Articles Published on Geeksforgeeks](https://auth.geeksforgeeks.org/user/yuvraj_chandra/articles)
 
 <br /> 
+
+![](https://komarev.com/ghpvc/?username=Yuvrajchandra)
   
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvrajchandra&layout=compact&count_private=true&theme=vue-dark" alt="Yuvrajchandra" /></p> 
   
