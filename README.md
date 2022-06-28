@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Yuvraj Chandra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>  
   
-<p align="center">A Full Stack Developer</p>
+<p align="center">A BUIDLer</p>
 
 <br/>
 
@@ -26,7 +26,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Yuvrajchandra&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![](https://komarev.com/ghpvc/?username=Yuvrajchandra)  
 ![](https://hit.yhype.me/github/profile?user_id=53931942)
