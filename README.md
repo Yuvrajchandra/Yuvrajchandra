@@ -5,7 +5,7 @@
 <br/>
 
 # 💫 About Me:
-🔭 I’m currently working on Musixverse and GetIntoweb3<br>👯 I’m looking to collaborate on GetIntoWeb3<br>🌱 I’m currently learning Solidity and Next.js<br>💬 Ask me about Web3, Blockchain, NFTs, Programming, and Startups.
+🔭 I’m currently working on Musixverse and GetIntoweb3<br>👯 I’m looking to collaborate on GetIntoWeb3<br>🌱 I’m currently learning Solidity and Next.js<br>💬 Ask me about Web3, Blockchain, NFTs, Programming, and Startups
 
 
 ## 🌐 Socials:
