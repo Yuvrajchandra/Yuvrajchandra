@@ -66,11 +66,18 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yuvrajchandra&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvrajchandra&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+### 📕 My Latest Blog posts:
+- [Articles Published on MakeUseOf](https://www.makeuseof.com/author/yuvraj-chandra/)
+- [Articles Published on Geeksforgeeks](https://auth.geeksforgeeks.org/user/yuvraj_chandra/articles)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Yuvrajchandra&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![](https://komarev.com/ghpvc/?username=Yuvrajchandra)  
+![](https://hit.yhype.me/github/profile?user_id=53931942)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yuvrajchandra) 
