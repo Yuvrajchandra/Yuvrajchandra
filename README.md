@@ -4,7 +4,7 @@
 
 <br/>
 
-# 💫 About Me:
+# 💫 About Me [OUTDATED]:
 🔭 I’m currently working on Musixverse and GetIntoweb3<br>👯 I’m looking to collaborate on GetIntoWeb3<br>🌱 I’m currently learning Solidity and Next.js<br>💬 Ask me about Web3, Blockchain, NFTs, Programming, and Startups<br>🏆 Polygon BUIDL IT 2021 Winner
 
 
