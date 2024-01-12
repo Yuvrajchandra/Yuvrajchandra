@@ -5,7 +5,19 @@
 <br/>
 
 # 💫 About Me:
-🔭 I’m currently working on Musixverse and GetIntoweb3<br>👯 I’m looking to collaborate on GetIntoWeb3<br>🌱 I’m currently learning React<br>💬 Ask me about Web3, Blockchain, NFTs, Programming, and Startups<br>🏆 Polygon BUIDL IT 2021 Winner
+Yuvraj, at the core, is a problem solver.<br>
+
+He is a tech nerd who loves tinkering with the latest technologies and products. His problem-solving abilities, entrepreneurial mindset, and curiosity to learn things have helped him to have an impact on millions of people around the globe.<br>
+
+He loves to simplify tech and programming. He has written 150+ articles and edited 300+ articles covering various topics, including JavaScript, React.js, Python, Web Scraping, C++, Git, GitHub, Node.js, Web3, Blockchain, HTML, CSS, Data Structures, Algorithms, Google products, Notion, ChatGPT, Artificial Intelligence, and so on, for MakeUseOf and GeeksforGeeks. Millions of readers enjoy reading his articles.<br>
+
+He is a builder and has developed several products including Musixverse, GetIntoWeb3, MrktDb, and Screensculptor.<br>
+
+Working at different startups has shaped him into a leader with exquisite abilities, be it tech or management, and helped him realize what things are actually important to steer a startup in the right direction.<br>
+
+His entrepreneurial spirit along with genuine curiosity and varied interests are sure to make up for some interesting conversations over a cup of coffee.<br>
+
+He has worn several caps over the years including product manager, developer, and technical writer. If there is something you find exciting about his profile and you want to discuss it further, just leave him a message or send an invitation to connect and he'll surely respond as soon as possible.<br>
 
 
 ## 🌐 Socials:
