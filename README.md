@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Yuvraj Chandra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>  
   
-<p align="center">A BUIDLer</p>
+<p align="center">A Developer, A Technical Writer, and A BUIDLer</p>
 
 <br/>
 
 # 💫 About Me:
-🔭 I’m currently working on Musixverse and GetIntoweb3<br>👯 I’m looking to collaborate on GetIntoWeb3<br>🌱 I’m currently learning Solidity and Next.js<br>💬 Ask me about Web3, Blockchain, NFTs, Programming, and Startups<br>🏆 Polygon BUIDL IT 2021 Winner
+🔭 I’m currently working on Musixverse and GetIntoweb3<br>👯 I’m looking to collaborate on GetIntoWeb3<br>🌱 I’m currently learning React<br>💬 Ask me about Web3, Blockchain, NFTs, Programming, and Startups<br>🏆 Polygon BUIDL IT 2021 Winner
 
 
 ## 🌐 Socials:
